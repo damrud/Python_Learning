@@ -1,6 +1,6 @@
-a = [1, 2, 3]
-b = [1, 3]
-
-c = [i for i in a if i in b]
-print(c)
-    
+def part_of_the_common(a,b):
+    common = []
+    for element in a:
+        if element in b:
+            common.append(element)
+    return common
