@@ -1,0 +1,10 @@
+starcraft
+zergling
+protoss
+tank
+zerg
+marinne
+terran
+stalker
+hydralisk
+queen
